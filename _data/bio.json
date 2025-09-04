@@ -28,7 +28,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Windows", "Linux/Ubuntu", "Git/GitHub", ]
+      "keywords": [ "Windows", "Linux/Ubuntu", "Git/GitHub"]
     }
   ],
   "education": [
@@ -46,7 +46,7 @@
     {
       "company": "University of Hawaiʻi at Mānoa Chemistry Department",
       "position": "Undergraduate Researcher",
-      "website": "",
+      "website": "https://sites.google.com/view/tosa-qc-research-group/member",
       "startDate": "2024-09-01",
       "endDate": "Present",
       "summary": "Researcher under Dr. Tosaporn Sattasathuchana at University the Hawaiʻi at Mānoa as part of the GAMESS collaboration",
