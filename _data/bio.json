@@ -10,9 +10,9 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "henrykorver", "url": "http://github.com/henrykorver" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "linkedin", "username": "", "url": "" },
+      { "network": "twitter", "username": "", "url": "" },
+      { "network": "instagram", "username": "", "url": "" }
     ]
   },
   "interests": [
@@ -28,15 +28,15 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Windows", "Ubuntu", "Git/GitHub", ]
+      "keywords": [ "Windows", "Linux/Ubuntu", "Git/GitHub", ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2026)",
+      "institution": "University of Hawaiʻi at Mānoa, Honolulu, HI",
+      "area": "Physics and Math (expected Spring, 2026)",
       "studyType": "B.S.",
-      "startDate": "2021-09-01",
+      "startDate": "2021",
       "endDate": "Present",
       "courses": [
       ]
@@ -44,70 +44,73 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "University of Hawaiʻi at Mānoa Chemistry Department",
+      "position": "Undergraduate Researcher",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2024-09-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Researcher under Dr. Tosaporn Sattasathuchana at University the Hawaiʻi at Mānoa as part of the GAMESS collaboration",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Executed and deployed GAMESS code to run on the KOA HPC using bash and Python scripting",
+        "Analyzed and visualized data using the Seaborn and Matplotlib Python libraries",
+        "Compared basis-set effects for the X18 and S22 molecular databases",
+        "Attended regular meetings regarding quantum chemistry research"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "University of Hawaiʻi at Mānoa Physics Department",
+      "position": "Laboratory Assistant",
+      "website": "https://www.dunescience.org/",
+      "startDate": "2022-02-01",
+      "endDate": "2023-05-15",
+      "summary": "Worked under Dr. Jelena Maricic and Dr. Ranjan Dharmapalan as part of the DUNE collaboration",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Operated a vacuum chamber and high-powered laser with respect to proper safety guidelines",
+        "Performed measurements of the photoelectric effect",
+        "Used NUMPY and ROOT in the context of particle physics"
+      ]
+    },
+    {
+      "company": "University of Hawaiʻi at Mānoa Physics Department",
+      "position": "Laboratory Assistant",
+      "website": "https://www.phys.hawaii.edu/~idlab/taskAndSchedule/HMBv3/HMBv3.html",
+      "startDate": "2021-10-15",
+      "endDate": "2022-05-15",
+      "summary": "Worked under the late Dr. Gary Varner as part of the HMBV3 project",
+      "highlights": [
+        "Designed a custom PCB",
+        "Used a 3D printer to make custom PCB mounts",
+        "Attended regular meetings on electrical engineering-related topics"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
+      "organization": "Climbing Club at UHM",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "position": "Founder and President",
+      "startDate": "2022",
+      "endDate": "2025",
+      "summary": "Founded and ran a large outdoor activity club with regular meetings",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Managed club meetings with regular attendance of 20+ members",
+        "Applied for and received funding for new climbing equipment",
+        "Instructed students on safe and responsible climbing practices"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Score of 10 on Putnam Exam",
+      "date": "2023",
+      "awarder": "William Lowell Putnam Mathematical Competition",
+      "summary": "College Mathematical Competition"
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
+      "title": "UROP funding recipient",
+      "date": "2025",
+      "awarder": "University of Hawaiʻi at Mānoa",
+      "summary": "Grant received to perform Computational Chemistry research in the Spring Semester"
   ],
   "references": [
     {
