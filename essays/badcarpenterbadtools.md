@@ -17,12 +17,13 @@ The carpenter metaphor goes a bit further as well. You might assume that the anc
 
 In fact it is so difficult, that here in the USA we've been getting worse at it.  Look at this chart of construction productivity over time:
 
-<img width="200px" class="rounded float-start pe-4" src="../img/badcarpenterbadtools/laborproductivtygraph.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/badcarpenterbadtools/laborproductivtygraph.png">
 
 All sectors except construction (Orange) have ballooned in productivity since the 50's. Agricultural productivity for example, has doubled 4 times! What about Construction? Well between 1947 and 2010 the annual growth rate was 0.1%. Further investigation yields something even more disparaging. For a while, construction producitvity kept pace with other sectors, even taking second place behind agriculture. After the Mid 60's however, this trend completely reversed itself, and within less than 50 years, the level of producivity in construction had more than halved! What happened?
 
-## The Blame Game
 What can't help is the lack of accountability almost inherent to the space. If a contractor fails at one of their designated tasks, they are incentivized to shed blame elsewhere. They couldn't get the order in because one of their suppliers was out of a neccesary material. One of their subcontractors failed to perform one of their deliverables. Et cetera et cetera. 
+
+## The Blame Game
 
 Software Engineering as a discipline is at risk of falling prey to the same disease: negligence. Negligence from higher ups is often branded as "delegating" -- putting responsibilities elsewhere, and the incredibly sinister "strategic reorganization" -- mass pre-emptive layoffs. While often the negligence I see from my peers takes the form of whining. Whining, as Theodore Roosevelt put it, is:
 

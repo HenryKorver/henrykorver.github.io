@@ -44,9 +44,11 @@ This means that while quantum computing may not be the key in proving P = NP, th
 ## The **Maximum Clique** 
 problem is an excellent example of an NP-hard problem. A clique in a graph is a subset of vertices where every two distinct vertices are connected. The problem is to find the largest possible clique in a given graph.
 
+<img width="200px" class="rounded float-start pe-4" src="../img/bothnpandp/maximalclique.png">
+
 Finding the maximum clique is computationally difficult because the number of possible groups to check grows exponentially with the number of vertices. This exponential explosion is exactly what makes the problem a perfect target for quantum optimization methods, as they can explore a vast number of possibilities simultaneously. For example, in this graph with 5 vertices, a **maximal clique** of size 4 would be the group of four vertices where every vertex in that group is connected to every other vertex in that same group. 
 
-<img width="200px" class="rounded float-start pe-4" src="../img/bothnpandp/maximalclique.png">
+
 
 ***
 
