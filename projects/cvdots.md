@@ -10,7 +10,7 @@ labels:
   - cv2
   - Computer Vision
   - Nanodots
-summary: "I developed a sizing algorithm for clusters of fused carbon nanodots by using existing computer vision tools in tandem."
+summary: "I developed a sizing algorithm for clusters of fused carbon nanodots by using existing computer vision tools in tandem. Built for ICS 435 Final Project."
 ---
 
 This portfolio presents my work from spring 2023 on the analysis of carbon nanoparticles. These materials are a subject of significant research due to their wide-ranging applications in fields like drug delivery, bioimaging, and energy storage. My project focused on addressing a key challenge in this research: the manual, time-consuming nature of analyzing microscopy images of these materials.
