@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Too smart for your own good"
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-08
+date: 2025-09-11
 published: true
 labels:
   - Questions
