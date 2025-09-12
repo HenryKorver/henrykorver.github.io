@@ -17,7 +17,7 @@ The carpenter metaphor goes a bit further as well. You might assume that the anc
 
 In fact it is so difficult, that here in the USA we've been getting worse at it.  Look at this chart of construction productivity over time:
 
-<img width="1000px" class="rounded float-start pe-4" src="../img/badcarpenterbadtools/laborproductivtygraph.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/badcarpenterbadtools/laborproductivtygraph.png">
 
 All sectors except construction (Orange) have ballooned in productivity since the 50's. Agricultural productivity for example, has doubled 4 times! What about Construction? Well between 1947 and 2010 the annual growth rate was 0.1%. Further investigation yields something even more disparaging. For a while, construction producitvity kept pace with other sectors, even taking second place behind agriculture. After the Mid 60's however, this trend completely reversed itself, and within less than 50 years, the level of producivity in construction had more than halved! What happened?
 
