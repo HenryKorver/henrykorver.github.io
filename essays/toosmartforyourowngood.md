@@ -17,10 +17,11 @@ What a makes a question smart? What makes a question dumb?
 
 
 
-To me a smart question is one that elicits intellectual curiosity in me and in others, and which has people that have a better grasp of the answer than I do. I.e. a question is dumb, if it. 
+To me a smart question is one that elicits intellectual curiosity in me and in others, and which has people that have a better grasp of the answer than I do. I.e. a question is dumb, if it: 
 
->1. Shuts down curiosity
->2. Adresses nobody with a better grasp of the question than I do
+> Shuts down curiosity
+
+> Adresses nobody with a better grasp of the question
 
 Few questions accomplish these tasks. As such, much more interesting to me is the following:
 
@@ -28,9 +29,9 @@ Few questions accomplish these tasks. As such, much more interesting to me is th
 
 In my mind, there are two classes of overly "smart" questions.
 
-The first group are ill-natured, performative displays of the authors erudition, meant to reinforce the author's ego as a smart and special individual, assuaging their insecurities and convincing them that they were not in fact stupid for needing to posit a question to another living breathing person. Of course, no one can know for certain that this was the intent of the author. This kind of question is wanton, lecherous, and decadent even. Often the author is nescient to the motive for their own behavior. One such chastize-worthy specimen is here(https://physics.stackexchange.com/q/859253). This cow-eyed, slack-jawed specimen blabbers on, inquiring about the connection between fiber optic supercontinuum generation and the hydrogen atom only to get short one sentence answers.
+The first group are ill-natured, performative displays of the authors erudition, meant to reinforce the author's ego as a smart and special individual, assuaging their insecurities and convincing them that they were not in fact stupid for needing to posit a question to another living breathing person. Of course, no one can know for certain that this was the intent of the author. This kind of question is wanton, lecherous, and decadent even. Often the author is nescient to the motive for their own behavior. One such chastize-worthy specimen is [here](https://physics.stackexchange.com/q/859253). This cow-eyed, slack-jawed specimen blabbers on, inquiring about the connection between fiber optic supercontinuum generation and the hydrogen atom only to get short one sentence answers.
 
-The second group are a bit misinformed and confused. They may not make lots of sense most of the time. They type short sentences. They ask open ended questions. They under no pretenses, are an expert. However, they ask a question that unknowingly hits a nerve within the community and leads to answers from within. E.g. "What exactly is RESTful(https://stackoverflow.com/q/671118) programming?" Whether or not they got a satisfactory answer at their level of understanding is sort of irrelevant, since many other people got use from just searching the web and coming across the post.
+The second group are a bit misinformed and confused. They may not make lots of sense most of the time. They type short sentences. They ask open ended questions. They under no pretenses, are an expert. However, they ask a question that unknowingly hits a nerve within the community and leads to answers from within. E.g. "What exactly is [RESTful](https://stackoverflow.com/q/671118) programming?" Whether or not they got a satisfactory answer at their level of understanding is sort of irrelevant, since many other people got use from just searching the web and coming across the post.
 
 But actually, I kind of agree with the sentiment behind the people asking both of these types of questions. To the credit of the self proclaimed scholars, it actually is *really* cool and exciting to know complicated technical details about things and be able to engage with a group of like minded people. And to the the credit of the confused, there are many others too ashamed to speak up.
 
