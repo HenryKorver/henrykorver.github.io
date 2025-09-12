@@ -19,8 +19,8 @@ What a makes a question smart? What makes a question dumb?
 
 To me a smart question is one that elicits intellectual curiosity in me and in others, and which has people that have a better grasp of the answer than I do. I.e. a question is dumb, if it. 
 
- 1. Shuts down curiosity
- 2. Adresses nobody with a better grasp of the question than I do
+>1. Shuts down curiosity
+>2. Adresses nobody with a better grasp of the question than I do
 
 Few questions accomplish these tasks. As such, much more interesting to me is the following:
 
@@ -51,11 +51,13 @@ This brings me to my final point.
 There are many more types of overly smart answers than there are questions. The most prolific example are the "I'm so smart answers." A typical exchange of this flavor might go something like the following:
 
 >Q: What is that furry animal with hooves that runs around called again?
+
 >A: The answer to your question could be a donkey, zebra, horse, giraffe, cow, or any other ungulate that prances about. Of course that would be if and only if you meant to ask what the animal was called in the English language. In spanish for example, the same animals would be called burro, cebra, caballo, jirafa, y vaca. 
 
 I like to conceptualize these as O(N^2) answers. That is, the answer fails to answer the question asked and does so in O(N^2) time where N was the amount of time spent posing the question. In this framework, an O(1) answer to an exchange (which might answer imperfectly) might look something like:
 
 >Q: What day of the week was it 1000 days ago?
+
 >A: Wednesday.
 
 
