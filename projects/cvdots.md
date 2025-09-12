@@ -25,11 +25,11 @@ My contribution to this methodology was its **successful application to images w
 
 ### Methods: A Recipe for Sizing a Raspberry Drupelet
 
-Imagine you're trying to figure out the average size of the tiny droplets that make up a raspberry. You can't just measure them all by hand; that would take forever! My project tackled a similar problem, but with microscopic carbon nanoparticles instead of raspberry drupelets. Here's the recipe I developed to get the job done automatically.
+Imagine you're trying to figure out the average size of the tiny druplets that make up a raspberry. You can't just measure them all by hand; that would take forever! My project tackled a similar problem, but with microscopic carbon nanoparticles instead of raspberry drupelets. Here's the recipe I developed to get the job done automatically.
 
 **Step 1: Grayscale Conversion and Edge Detection**
 
-First, the raw image is converted to a grayscale image. This simplifies the data, much like removing all colors from a photo to see the underlying shades of light and dark. Next, to find the edges of the particles, I applied an edge detection filter. After testing a few different methods, I found that the **Canny Edge detector** worked best. It uses a clever technique called **hysteresis thresholding** that’s especially good at finding the "soft edges" of these particles, filtering out noisy details while keeping the important ones. 
+First, the raw image is converted to a grayscale image. This removes unneeded information, and allows for better compression. Next, to find the edges of the particles, I applied an edge detection filter. After testing a few different methods, I found that the **Canny Edge detector** worked best. It uses a clever technique called **hysteresis thresholding** that’s especially good at finding the "soft edges" of these particles, filtering out noisy details while keeping the important ones. 
 
 <div class="text-center p-4">
   <img width="250px" src="../img/cvdots/03_canny.png" class="img-fluid" >
