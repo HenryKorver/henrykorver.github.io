@@ -23,19 +23,19 @@ My contribution to this methodology was its successful application to images wit
 ### Image Processing Workflow
 My workflow begins with raw 400x magnification images of the carbon nanoparticles.
 <div class="text-center p-4">
-  <img width="250px" src="../img/cvdots/01_raw.png" class="img-thumbnail" >
+  <img width="250px" src="/img/cvdots/01_raw.png" class="img-thumbnail" >
 </div>
 The image is then converted to grayscale and a Canny edge detection filter is applied. I optimized the hysteresis threshold to obtain clearer boundaries.
 <div class="text-center p-4">
-  <img width="250px" src="../img/cvdots/02_grayscale.png" class="img-thumbnail" >
-  <img width="250px" src="../img/cvdots/03_canny.png" class="img-thumbnail" >
-  <img width="250px" src="../img/cvdots/04_canny_optimized.png" class="img-thumbnail" >
+  <img width="250px" src="/img/cvdots/02_grayscale.png" class="img-thumbnail" >
+  <img width="250px" src="/img/cvdots/03_canny.png" class="img-thumbnail" >
+  <img width="250px" src="/img/cvdots/04_canny_optimized.png" class="img-thumbnail" >
 </div>
 A Hough transform is then used to detect circles from the edges.
 <div class="text-center p-4">
-  <img width="250px" src="../img/cvdots/05_hough.png" class="img-thumbnail" >
+  <img width="250px" src="/img/cvdots/05_hough.png" class="img-thumbnail" >
 </div>
 Finally, I filter out the exterior circles to isolate the interior ones, which represent the individual nanoparticles.
 <div class="text-center p-4">
-  <img width="250px" src="../img/cvdots/06_interior_circles.png" class="img-thumbnail" >
+  <img width="250px" src="/img/cvdots/06_interior_circles.png" class="img-thumbnail" >
 </div>
