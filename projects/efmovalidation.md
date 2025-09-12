@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: img\efmovalidation\UROP-Torch.png
 title: "EFMO Validation"
 date: 2025
 published: true
