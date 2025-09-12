@@ -10,90 +10,56 @@ labels:
   - Answers
   - StackOverflow
 ---
+## On Questions and Dialogues
+What a makes a question smart? What makes a question dumb?
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+<img width="1000px" class="rounded float-start pe-4" src="../img/toosmartforyourowngood/socrates.png">
 
-## Is there such thing as a stupid question?
 
-I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” I now know that is in fact not true because I’ve challenged the statement and received the appropriate dumb-stricken, annoyed look. There are definitely stupid questions, and along with that, usually unhelpful answers. Though we all might be guilty of being callous and making people victim to our poorly formed questions, there are steps we can take to ask smarter questions that hopefully don’t illicit the dreaded “rtfm” or “stfw” response.
 
-## What’s a smart question?
+To me a smart question is one that elicits intellectual curiosity in me and in others, and which has people that have a better grasp of the answer than I do. Under this definition, a question is dumb, if it. 
+i. shuts down curiosity
+ii. there is no one who has a better grasp of the question than I do
 
-Stack Overflow, a question and answer site for programmers, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved.
+When is a question too smart for it's own good? 
 
-In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out a way to get the date of the previous month in Python.
+In my mind, there are only two classes of overly "smart" questions.
 
-```
-Q: python date of the previous month
+The first group are ill-natured, performative displays of the authors erudition, meant to reinforce the author's ego as a smart and special individual, assuaging their insecurities and convincing them that they were not in fact stupid for needing to posit a question to another living breathing person. Of course, no one can know for certain that this was the intent of the author. This kind of question is wanton, lecherous, and decadent even. Often the author is nescient to the motive for their own behavior. One such chastize-worthy specimen is: https://physics.stackexchange.com/q/859253. This cow-eyed, slack-jawed specimen inquires about the connection between fiber optic supercontinuum generation and the 
 
-I am trying to get the date of the previous month with python. Here is what i've tried:
 
-str( time.strftime('%Y') ) + str( int(time.strftime('%m'))-1 )
 
-However, this way is bad for 2 reasons: First it returns 20122 for the February of 2012 (instead of 201202) 
-and secondly it will return 0 instead of 12 on January.
+The second group are a bit misinformed and confused. They may not make lots of sense most of the time. They type short sentences. They ask open ended questions. They under no pretenses, are an expert. Here is an example: 
 
-I have solved this trouble in bash with:
+I guess that, well, I'm not too interested in particular about whether a question is smart or dumb. I care more about whether or not it is a good question. Something that helps people.
 
-echo $(date -d"3 month ago" "+%G%m%d")
+One interesting thought of mine, that perhaps you will disagree with is that no question is good or bad in isolation, it is the context in which it is placed which makes it good or bad. The context is relevant, precisely because when someone asks something, another must answer, and at least how I see it, a good answer is one that seems to satisfy the questioner. 
 
-I think that if bash has a built-in way for this purpose, then python, much more equipped, should provide something 
-better than forcing writing one's own script to achieve this goal. Of course i could do something like:
+Some might think that the converse of this statement is true, that a question is a good one if it satisfies the person answering. I'm not so sure. Certainly I think another thing that a question is.
 
-if int(time.strftime('%m')) == 1:
-    return '12'
-else:
-    if int(time.strftime('%m')) < 10:
-        return '0'+str(time.strftime('%m')-1)
-    else:
-        return str(time.strftime('%m') -1)
-        
-I have not tested this code and i don't want to use it anyway (unless I can't find any other way:/)
+My biggest concern would be that imposing a style guide on questions would hamper curiosity, and lead to less excitement around learning in general.
 
-Thanks for your help!
-```
+One final observation is that I noticed that a good question -- good answer pair has a balance of complexity. Neither the question nor answer outshines the other. 
 
-While the heading of his question could be better, it does convey what he’s trying to figure out. Usually something as brief as “python date of previous month” is what other users would enter in as search terms on Google, making it easily found. Another good thing about the question is that it’s not just a question. The asker shows what he or she has done and that he or she has put in some effort to answer the question. And while it may not be as important as the question itself, the asker shows courtesy, which does increase the chance of getting an answer.
+That brings me to my final point. 
 
-```
-A: datetime and the datetime.timedelta classes are your friend.
+When is a question too smart for it's own good?
 
-1. find today
-2. use that to find the first day of this month.
-3. use timedelta to backup a single day, to the last day of the previous month.
-4. print the YYYYMM string you're looking for.
+I actually think that there are way more types of overly smart answers than there are questions. The most prolific example is the analog of the "I'm so smart type questions." A typical exchange might go something like the following:
 
-Like this:
+Q: What is that furry animal with hooves that runs around called again?
+A: The answer to your question is probably donkey, zebra, horse, giraffe, cow, or any other ungulate that prances about. Of course that would be if and only if you meant what the animal was called in the english language as in spanish for example the same animals would be called burro, cebra, caballo, jirafa, y vaca. 
 
- >>> import datetime
- >>> today = datetime.date.today()
- >>> first = datetime.date(day=1, month=today.month, year=today.year)
- >>> lastMonth = first - datetime.timedelta(days=1)
- >>> print lastMonth.strftime("%Y%m")
- 201202
- >>>
+I like to conceptualize these as O(N^2) answers. That is, the answer fails to answer the question asked and does so in O(N^2) time where N was the amount of time spent posing the question. In this framework, an O(1) answer (which would likely answer the question albeit imperfectly) might look something like:
 
-```
- 
-The asker received six possible answers, and he or she was successful in inciting discussion from multiple users. The answers themselves were clear and were devoid of the rumored sarcasm and hostility of “hackers.” Since I myself have referenced this page and found it useful, I can confidently say that it is a good question.
+Q: What day of the week was it 1000 days ago?
+A: Wednesday.
 
-## The foolproof way to get ignored.
+Because of these examples, I disagree with Eric Raymond on his overarching question asking philosophy. Good questions are made by good answers. Being explicit undercuts being concise, 
+For me I would rather KISS than be explicit. Who cares what version of Ubuntu I'm running if the answer to my question would have been consistent for the LTS. And I place greater responsibility for weather or not a question was a good or bad one. on those answering the questions than those asking. 
 
-While there are decent questions that benefit everyone, there are those one can ask to create an entirely different effect. In the following example, a user asks how he would, in short, create a desktop application with Facebook.
+That being said, his comments that "Choose your forum carefully" "Volume is not precision" "Describe the goal, not the step" are sage advice for anyone looking to get their question answered reliably on the internet. And "Don't Rush to Claim you have found a bug"All of these are second nature if you can learn to Keep it Simple Stupid.
 
-```
-Q: Facebook Desktop Notifier
 
-I am a beginner programmer that have never used anything other than what's included in a language.
 
-I am trying to create a desktop application that notifies me anytime I get an update onfacebook. 
-How should go about doing this? Thanks in advance.
 
-edit Sorry I was not clear. Is there any way to make a DESKTOP application with facebook?
-```
-
-A simple “yes” would have answered the question, but we know that’s not the sort of answer he or she is looking for. Fortunately, someone kindly responded with a link to Facebook’s developer website. The asker should have done more research on his or her potential project. Then further down the road, he or she could have asked more specific and detailed questions that wouldn’t require a thousand-paged response for a sufficient answer.
-
-## Conclusion
-
-When we rely on others’ generosity and expertise to provide answers to our questions, it should hold that the question we ask should be one that leads to efficient and effective help that not only benefits us, but also the people we ask and others who might ask the same question in the future. Thus, if you have a question… make it a smart one! Asking questions may not always get you the best answer, but asking them in a way that will make others want to answer them will increase the success of finding a good solution and make it a positive experience on all sides.
