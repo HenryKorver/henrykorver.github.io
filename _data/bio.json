@@ -9,10 +9,7 @@
     "summary": "I am studying for a B.S. in Physics in the Department of Arts and Sciences at the University of Hawaii.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "henrykorver", "url": "http://github.com/henrykorver" },
-      { "network": "linkedin", "username": "", "url": "" },
-      { "network": "twitter", "username": "", "url": "" },
-      { "network": "instagram", "username": "", "url": "" }
+      { "network": "github", "username": "henrykorver", "url": "http://github.com/henrykorver" }
     ]
   },
   "interests": [
