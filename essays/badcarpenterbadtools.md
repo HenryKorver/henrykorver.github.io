@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Igniting the fire"
+title: "The poor carpenter blames his tools, while the master sharpens his chisel"
 # All dates must be YYYY-MM-DD format!
 date: 2015-08-26
 published: true
