@@ -1,10 +1,16 @@
-# Design Patterns and The ICS 314 final Project
-
-**Software Engineering** • **Design Patterns** • **Next.js** • **Architecture**
-
-*Published: December 4, 2025*
-
 ---
+layout: essay
+type: essay
+title: "Tons Of Single Decorations"
+# All dates must be YYYY-MM-DD format!
+date: 2025-12-04
+published: true
+labels:
+  - Software Engineering
+  - Learning
+  - Design Patterns
+---
+Over the past week or so, we have begun to talk about software design patterns in our class. After 10+ hours, I think I can answer the following question competently:
 
 ## What is a Design Pattern?
 
