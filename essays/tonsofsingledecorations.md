@@ -12,9 +12,9 @@ labels:
 ---
 Over the past week or so, we have begun to talk about software design patterns in our class. After 10+ hours, I think I can answer the following question competently:
 
-## What is a Design Pattern?
+## Why bother following Design Patterns?
 
-In software engineering, a design pattern is a template solution to commonly occurring problems. Unlike frameworks or libraries, they are not ready-made tools, and in fact, they are more like extra vocabulary. Memorizing each design pattern is a little dull, but if I tell another developer, "I'm using a factory here," I would hope they follow.
+At first glance, Design Patterns may seem overly complicated and abstract, but their implementation need not be. In software engineering, a design pattern is a template solution to commonly occurring problems. Unlike frameworks or libraries, they are not ready-made tools, and in fact, they are more like extra vocabulary. I'm a bit torn because on one hand, memorizing 20+ common design patterns is a little dull. On the other hand, if I tell another developer, "I'm using a factory here," I would be disappointed if I had to explain to them what a factory is. 
 
 Design patterns can be split into three groups:
 
