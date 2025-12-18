@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Does AI Help or Hinder Learning outcomes?"
+title: How Does AI Help or Hinder Learning outcomes?
 date: 2025-12-16
 published: true
 labels:
