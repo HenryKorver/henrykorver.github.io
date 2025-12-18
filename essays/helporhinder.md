@@ -1,4 +1,11 @@
-# Does AI Help or Hinder Learning outcomes?
+---
+layout: essay
+type: essay
+title: Does AI Help or Hinder Learning outcomes?"
+date: 2025-09-04
+published: true
+labels:
+---
 
 ## I. Introduction
 
