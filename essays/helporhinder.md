@@ -31,42 +31,30 @@ I looked up a couple of questions in class questions on various chatbots, but th
 I think that this is a pretty good use case for AI currently. An interpreter between two people who speak the same language may seem unnecessarily circuitous, but within the context of smart-questions, there are often technical gaps in vocabulary between the asker and the answerer. AI can help the asker provide a more detailed, consistent question, while giving the answerer a more general, heuristic-based answer (rather than just narrow technical details).
 
 ### Coding Example
-Every AI I tried was pretty fantastic at generating template code. It was even pretty good at doing this for stuff within relatively niche libraries and frameworks.
+Every AI I tried was pretty fantastic at generating template code. It was even pretty good at doing this for coding tasks within relatively niche libraries and frameworks.
 
 ### Explaining Code
-* **Usage:** [Yes / No]
-* **Reflection:** [Did you paste a block of confusing code into AI and ask it to break it down line-by-line? Was the explanation accurate?]
+I would say it was pretty good at this for the most part, and can even help you understand some pretty complicated code, but I'm not sure understanding the natural language explanation of the code is always easier than just looking at the code yourself. I tried asking it to provide some of its explanations visually, and it performed pretty humurously in its attempts to produce flowcharts and sequence diagrams.
 
 ### Writing Code
-* **Usage:** [Yes / No]
-* **Reflection:** [Did you use Co-Pilot to autocomplete lines? Did you ask ChatGPT to write entire functions? How much editing did you have to do afterwards?]
+For the final project, I fed AI some psuedocde and let it generate the approrpiately formated typescript. Not doing this, and just giving it a specific task often lead to code that intractable and confusing (to me in particular).
 
 ### Documenting Code
-* **Usage:** [Yes / No]
-* **Reflection:** [Did you use AI to generate JSDoc comments or README files?]
+I don't think I did a fantastic job documenting my code in this class, and I think AI could have helped me.
 
 ### Quality Assurance
-* **Usage:** [Yes / No]
-* **Reflection:** [e.g., "What’s wrong with this code?" or "Fix the ESLint errors in..."]
-* **Example Prompt:**
-    ```
-    [e.g., "Why is this React component not rendering updated state?"]
-    ```
+I 
 
 ### Other Uses in ICS 314
 * **Reflection:** [Did you use it for email drafting? Scheduling? Any other specific technical tasks not listed above?]
 
 ## III. Impact on Learning and Understanding
 
-> **Instructions:** Discuss how AI influenced your learning. Did it make you "lazy" or did it act as a "tutor"? Did it help you understand concepts faster, or did you find yourself copy-pasting code you didn't understand?
-
-[Draft your response here. Example thought starter: "While AI accelerated my coding speed, I realized that I sometimes skipped the 'struggle' phase of learning. However, using it to explain error messages significantly improved my debugging skills..."]
+As a tutor, I don't think that any of the cutting edge models are good at tutoring out of the box. It does not know when to withold information and let you think for yourself. If you ask it to give you some resistance it can do a little bit better, but will often default back to characteristic sychophancy. Maybe if you fine tuned an educational model on student exam perfomance you could circumvent this issue?
 
 ## IV. Practical Applications
 
-> **Instructions:** Discuss AI outside of this specific class. Have you used it for the HACC (Hawaii Annual Code Challenge)? Internships? Personal hobby projects?
-
-[Draft your response here. Example: "Outside of ICS 314, I used GitHub Co-Pilot during the HACC. It was incredibly useful for setting up boilerplate code for our web app..."]
+AI has excelled at making some small scale projects of mine achievable in a shorter period of time. However, I don't think.
 
 ## V. Challenges and Opportunities
 
@@ -81,30 +69,12 @@ Every AI I tried was pretty fantastic at generating template code. It was even p
 
 ## VI. Comparative Analysis
 
-> **Instructions:** Compare "Old School" vs "AI Enhanced" learning.
 
-**Traditional Methods:**
-* [Reading documentation, searching StackOverflow, trial and error.]
-* *Pros/Cons:* [High retention, slow speed.]
-
-**AI-Enhanced Approaches:**
-* [Instant answers, code generation.]
-* *Pros/Cons:* [Fast speed, potential for shallow understanding.]
-
-[Synthesize these thoughts into a paragraph.]
 
 ## VII. Future Considerations
 
-> **Instructions:** Where is this going? Will software engineers just be "Prompt Engineers"?
 
-[Draft your thoughts here. Example: "I believe the future of SE education will focus less on syntax memorization and more on system architecture and code review, as AI handles the implementation details..."]
 
 ## VIII. Conclusion
 
-> **Instructions:** Summarize your findings. Give a recommendation to the professor or future students.
-
-In conclusion, my experience with AI in ICS 314 has been **[positive/mixed/transformative]**. It is a powerful tool that, when used correctly, acts as a force multiplier for a software engineer. However, it requires a strong foundational understanding to verify its output. 
-
-**Recommendations:**
-* [Recommendation 1]
-* [Recommendation 2]
+Reccommendation 1: 
