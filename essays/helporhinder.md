@@ -41,47 +41,46 @@ I think that this is a pretty good use case for AI currently. An interpreter bet
 Every AI I tried was pretty fantastic at generating template code. It was even pretty good at doing this for coding tasks within relatively niche libraries and frameworks.
 
 ### Explaining Code
-I would say it was pretty good at this for the most part, and can even help you understand some pretty complicated code, but I'm not sure understanding the natural language explanation of the code is always easier than just looking at the code yourself. I tried asking it to provide some of its explanations visually, and it performed pretty humurously in its attempts to produce flowcharts and sequence diagrams.
+I would say it was pretty good at this for the most part, and can even help you understand some pretty complicated code, but I'm not sure understanding the natural language explanation of the code is always easier than just looking at the code yourself. I tried asking it to provide some of its explanations visually, and it performed pretty humorously in its attempts to produce flowcharts and sequence diagrams.
 
 ### Writing Code
-For the final project, I fed AI some psuedocde and let it generate the approrpiately formated typescript. Not doing this, and just giving it a specific task often lead to code that intractable and confusing (to me in particular).
+For the final project, I fed AI some psuedocde and let it generate the approrpiately formated typescript. Not doing this, and just giving it a specific task often lead to code that is intractable and confusing (to me in particular).
 
 ### Documenting Code
-I don't think I did a fantastic job documenting my code in this class, and I think AI could have helped me.
+
+If I was too lazy I would have AI do this as I figured barely anyone looks at documentation, but I think generally I did a better job than it.
 
 ### Quality Assurance
-I 
+
+AI was pretty good at spotting stupid errors like a variable name typo or something similar. Having Copilot autocomplete enabled was another good quality assurance measure.
 
 ### Other Uses in ICS 314
-* **Reflection:** [Did you use it for email drafting? Scheduling? Any other specific technical tasks not listed above?]
+That covers it.
 
 ## III. Impact on Learning and Understanding
 
-As a tutor, I don't think that any of the cutting edge models are good at tutoring out of the box. It does not know when to withold information and let you think for yourself. If you ask it to give you some resistance it can do a little bit better, but will often default back to characteristic sychophancy. Maybe if you fine tuned an educational model on student exam perfomance you could circumvent this issue?
+As a tutor, I don't think that any of the cutting-edge models are fantastic at tutoring out of the box. It knows the material and can give a good explanation. It does not, however, know when to withhold information and let you think for yourself. If you ask it to give you some resistance, it can do a little bit better, but will often default back to characteristic sychophancy. Maybe if you fine tuned an educational model on student exam perfomance you could circumvent this issue?
 
 ## IV. Practical Applications
 
-AI has excelled at making some small scale projects of mine achievable in a shorter period of time. However, I don't think.
+I haven't explored AI as extensively outside as I have inside it. My general thoughts are that using it would make me more objective-focused and less process-focused, allowing me to complete unfinished projects, but to quality standards I might be unhappy with.
 
 ## V. Challenges and Opportunities
 
-> **Instructions:** Identify limitations (hallucinations, outdated info) and opportunities (personalized learning).
+The primary challenge I encountered with the LLMs was their urge to please. LLMs are designed to be helpful, not educational. They provide the solution immediately rather than guiding you through the problem-solving process.
 
-**Challenges:**
-* [e.g., AI often gave me code for older versions of Meteor that didn't work in the current version.]
-* [e.g., Over-reliance made me feel less confident coding on a whiteboard.]
-
-**Opportunities:**
-* [e.g., AI could be integrated into IDEs to provide real-time feedback on code quality before submission.]
+On the other side of the coin, this challenge provides a pretty robust opportunity. If some models are tweaked to push back, and not just spoon-feed users answers, they could become fantastic personal tutors. Prompting them correctly can often help achieve this outcome, albeit imperfectly.
 
 ## VI. Comparative Analysis
 
+The traditional approach, which I stuck to for the Experience WODs (using YouTube tutorials or documentation), helped me retain the syntax better. When I had to type out the code or debug it manually, I internalized the syntax and logic. The downside is the time investment; getting stuck on a syntax error for half an hour is not an efficient use of time.
 
+The AI approach was faster to get started, but resulted in a greater accumulation of technical debt. I also don't really know what to say about the philosophical questions surrounding ownership of "AI-assisted" content. The 
 
 ## VII. Future Considerations
 
-
+LLMs are an exceptional tool and are likely to continue improving performance on benchmarks. 
 
 ## VIII. Conclusion
 
-Reccommendation 1: 
+Although AI may have lessened my web development learning experience, I did learn a great deal about LLMs and generative AI in general. 20 years from now, I'll know which topic was more important.
