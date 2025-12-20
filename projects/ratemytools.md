@@ -56,4 +56,4 @@ Beyond feature development, I played a key role in maintaining the health of the
 ---
 
 ## Team & Process
-This project followed an Issue Driven Project Management (IDPM) methodology. Working with a team of five was a valuable exercise in communication and efficient task distribution. We utilized GitHub Projects to track milestones (M1, M2, M3), manage merge conflicts, and ensure that our "divide and conquer" strategy resulted in a cohesive final product. 
+This project followed an Issue Driven Project Management (IDPM) methodology. Working with a team of five was a valuable exercise in communication and efficient task distribution. We utilized GitHub Projects to track milestones (M1, M2, M3), manage merge conflicts, and ensure that our "divide and conquer" strategy resulted in a cohesive final product. A special thanks to my team members Joseph Creollo, Justin Iwata, Kade Komeya, and Chase Tom. Their support and ingenuity on this project cannot be overstated.
