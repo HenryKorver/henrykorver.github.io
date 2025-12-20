@@ -13,7 +13,6 @@ labels:
 ## I like computer science
 for the same reason I like physics, for the same reason I like Math, and for the same reason I like sudokus or crossword puzzles. I like solving problems. Easy problems are fun, but even more fun are the hard ones. Some problems are so hard that they don't have a polynomial solution. And they are even so hard that no one can prove whether or not they should or shouldn't have one.
 
-
 ***
 
 ## NP-hard problems 
@@ -47,8 +46,6 @@ problem is an excellent example of an NP-hard problem. A clique in a graph is a 
 <img width="200px" class="rounded float-start pe-4" src="../img/bothnpandp/maximalclique.png">
 
 Finding the maximum clique is computationally difficult because the number of possible groups to check grows exponentially with the number of vertices. This exponential explosion is exactly what makes the problem a perfect target for quantum optimization methods, as they can explore a vast number of possibilities simultaneously. For example, in this graph with 5 vertices, a **maximal clique** of size 4 would be the group of four vertices where every vertex in that group is connected to every other vertex in that same group. 
-
-
 
 ***
 
